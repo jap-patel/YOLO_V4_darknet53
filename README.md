@@ -1,7 +1,7 @@
 # yolov4-custom-functions
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
-thw whole credit of this repo goes to : theAIGuysCode/tensorflow-yolov4-tflite
+the whole credit of this repo goes to : theAIGuysCode/tensorflow-yolov4-tflite
 
 A wide range of custom functions for YOLOv4, YOLOv4-tiny, YOLOv3, and YOLOv3-tiny implemented in TensorFlow, TFLite and TensorRT.
 
